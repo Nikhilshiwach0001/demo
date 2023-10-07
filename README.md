@@ -1,2 +1,2 @@
 # demo
-hii, this is a rerpository for learning github
+hii, this is a repository for learning github
